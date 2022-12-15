@@ -13,3 +13,4 @@ Comandos:
 9. clear
 10. git add .: Evia todos os arquivos da pasta.
 11.  git checkout -b "nome"
+12.git merge novo-botao
