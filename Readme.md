@@ -9,6 +9,7 @@ Comandos:
 6. git branch -M "master": muda o nome do git para master.
 7. git remote add origin Repertorio de origem: serve pra mandar pra um repertorio do github.
 8. git push -U origin main: manda pro github.
+8.1  git push origin nome criado do checkout
 9. clear
 10. git add .: Evia todos os arquivos da pasta.
 11.  git checkout -b "nome"
