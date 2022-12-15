@@ -11,3 +11,4 @@ Comandos:
 8. git push -U origin main: manda pro github.
 9. clear
 10. git add .: Evia todos os arquivos da pasta.
+11.  git checkout -b "nome"
