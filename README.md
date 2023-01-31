@@ -10,10 +10,10 @@ Digite "Pedra", "Papel" ou "Tesoura"
 Observe o resultado e a contagem de vitórias, derrotas e empates
 Para sair do jogo, digite "Não" ao ser perguntado se deseja continuar jogando
 ## Variáveis
-qt: dicionário que armazena a contagem de vitórias, derrotas e empates
-lista: lista de opções de jogo (Pedra, Papel, Tesoura)
-res: resposta do usuário
-a: resposta aleatória da máquina
-i: resposta para continuar jogando ou sair.
+1. qt: dicionário que armazena a contagem de vitórias, derrotas e empates
+2. lista: lista de opções de jogo (Pedra, Papel, Tesoura)
+3. res: resposta do usuário
+4. a: resposta aleatória da máquina
+5. i: resposta para continuar jogando ou sair.
 ## Código
 O código utiliza o módulo random para escolher aleatoriamente uma opção e compara com a resposta do usuário. Caso sejam iguais, é registrado um empate. Caso contrário, verifica se a combinação resulta em vitória ou derrota para o usuário. A contagem de resultados é mantida no dicionário "qt". O jogo continua enquanto o usuário desejar.
